@@ -1,0 +1,2 @@
+# minimalTabsJS
+Minimal Responsive TabsJS
